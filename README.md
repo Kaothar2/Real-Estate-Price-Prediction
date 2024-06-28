@@ -13,7 +13,7 @@
 - [Key Insights](#key-insights)
 - [Conclusion](#conclusion)
 
-- ## Project Overview
+## Project Overview
 RealEstate Bud, a prominent real estate company in Manila, was grappling with a critical challenge: "the accurate valuation of properties in a rapidly evolving market". Manila's property values were influenced by a myriad of factors such as urban development projects, local ordinances, and buyer preferences, which were changing at an unprecedented pace. RealEstate Bud needed to develop a robust and adaptive valuation model to accurately predict property values despite the dynamic nature of the real estate market. 
 
 ## Problem Statement
