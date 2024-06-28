@@ -34,7 +34,7 @@ In the process of handling the data, I engaged in compilation and cleansing acti
 
 Predictions 1a     |  Predictions 1b
 :-------------:|:--------------:
-![](Dashboard__1.png) | ![](Dashboard.png)
+![](Dashboard_1.png) | ![](Dashboard.png)
 
 ## key Metrics
 ### Correlation matrix
